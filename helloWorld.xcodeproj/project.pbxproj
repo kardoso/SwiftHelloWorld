@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7E72924C277E1D700008C1A4 /* helloWorldApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E72924B277E1D700008C1A4 /* helloWorldApp.swift */; };
-		7E72924E277E1D700008C1A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E72924D277E1D700008C1A4 /* ContentView.swift */; };
+		7E72924E277E1D700008C1A4 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E72924D277E1D700008C1A4 /* CardView.swift */; };
 		7E729250277E1D720008C1A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E72924F277E1D720008C1A4 /* Assets.xcassets */; };
 		7E729253277E1D720008C1A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E729252277E1D720008C1A4 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		7E729248277E1D700008C1A4 /* helloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = helloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E72924B277E1D700008C1A4 /* helloWorldApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helloWorldApp.swift; sourceTree = "<group>"; };
-		7E72924D277E1D700008C1A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		7E72924D277E1D700008C1A4 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		7E72924F277E1D720008C1A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E729252277E1D720008C1A4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				7E72924B277E1D700008C1A4 /* helloWorldApp.swift */,
-				7E72924D277E1D700008C1A4 /* ContentView.swift */,
+				7E72924D277E1D700008C1A4 /* CardView.swift */,
 				7E72924F277E1D720008C1A4 /* Assets.xcassets */,
 				7E729251277E1D720008C1A4 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E72924E277E1D700008C1A4 /* ContentView.swift in Sources */,
+				7E72924E277E1D700008C1A4 /* CardView.swift in Sources */,
 				7E72924C277E1D700008C1A4 /* helloWorldApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
