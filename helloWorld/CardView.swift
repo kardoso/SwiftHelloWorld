@@ -9,9 +9,9 @@ import SwiftUI
 
 struct CardView: View {
     var body: some View {
-        HStack {
+        HStack(alignment: .center) {
             Image("programminghub")
-            VStack {
+            VStack(alignment: .center, spacing: 5) {
                 Text("Samuel Cardoso")
                 Text("iOS Developer")
                 Text("I love SwiftUI")
